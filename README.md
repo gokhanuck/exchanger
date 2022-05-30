@@ -56,6 +56,7 @@ Here is the complete list of the currently implemented services:
 | [1Forge](https://1forge.com) | * (free but limited or paid) | * (free but limited or paid) | No |
 | [Cryptonator](https://www.cryptonator.com) | * Crypto (Limited standard currencies) | * Crypto (Limited standard currencies)  | No |
 | [CurrencyDataFeed](https://currencydatafeed.com) | * (free but limited or paid) | * (free but limited or paid) | No |
+| [Finage](https://finage.co.uk) | * (free but limited or paid) | * (free but limited or paid) | Yes |
 | [Open Exchange Rates](https://openexchangerates.org) | USD (free), * (paid) | * | Yes |
 | [Xignite](https://www.xignite.com) | * | * | Yes |
 | [Currency Converter API](https://www.currencyconverterapi.com) | * | * | Yes (free but limited or paid) |
